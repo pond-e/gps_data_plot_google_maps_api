@@ -27,6 +27,9 @@ To visualize the data:
 2. Load the `public/data.csv` file.
 3. Use the provided script to parse the CSV and plot the data on a Google Map.
 
+![Example Map Visualization](example.png)
+
+
 ## Requirements
 
 - Google Maps API key.
